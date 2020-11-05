@@ -9,10 +9,10 @@ Intro to TensorFlow for Deep Learning
 2. Forecasting (time_series, time_window) - RNN, CNN
   this work is copy for personal training,
   
-  ref. Udacity free course: Intro to TensorFlow for Deep Learning
-  https://classroom.udacity.com/courses/ud187, 
-  Lesson 8: Time Series Forecasting
-  by Aurélien Géron is a Machine Learning consultant, author of "Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow".
+  - ref. Udacity free course: Intro to TensorFlow for Deep Learning
+  - https://classroom.udacity.com/courses/ud187, 
+  - Lesson 8: Time Series Forecasting
+  - by Aurélien Géron is a Machine Learning consultant, author of "Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow".
   
   ref. TensorFlow tutorial 
   https://www.tensorflow.org/tutorials/structured_data/time_series
