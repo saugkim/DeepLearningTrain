@@ -7,7 +7,7 @@ Intro to TensorFlow for Deep Learning
 ### 1. Computer Vision- CNN
 
 ### 2. Forecasting (time_series, time_window) - RNN, CNN
-  this work is copy for personal training,
+  this content is copy of somebody elses work, just for personal study,
   
   ref. Udacity free course: Intro to TensorFlow for Deep Learning
   - https://classroom.udacity.com/courses/ud187, 
